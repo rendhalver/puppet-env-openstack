@@ -19,7 +19,7 @@ mod 'puppetlabs/vswitch', '0.3.0' #  (>=0.2.0 <1.0.0)
 
 # dependencies
 mod 'puppetlabs/apache', '1.1.0' # (>=1.0.0 <2.0.0)
-mod 'puppetlabs/inifile', '1.0.3' # (>=1.0.0 <2.0.0)
+mod 'puppetlabs/inifile', '1.0.0' # (>=1.0.0 <2.0.0)
 mod 'puppetlabs/mysql','2.2.3' # (>=0.9.0 <3.0.0)
 mod 'puppetlabs/stdlib', '4.2.2' # (>= 3.2.0)
 mod 'puppetlabs/rsync','0.3.0'
